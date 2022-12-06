@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59660043950",
+    "project_id": "newsultiontest",
+    "storage_bucket": "newsultiontest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59660043950:android:6aab8317ffdd77f6f38f3f",
+        "android_client_info": {
+          "package_name": "com.example.new_sulution_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59660043950-9tv7mu5o9o3ep4bescbsnq59mbmekott.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbePl3n86MPOGZiSsmxFryN02Wum-LMTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59660043950-9tv7mu5o9o3ep4bescbsnq59mbmekott.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
